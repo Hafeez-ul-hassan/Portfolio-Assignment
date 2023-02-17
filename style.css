@@ -1,0 +1,636 @@
+body {
+    background-color: rgb(66, 65, 65);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Adams {
+    position: relative;
+    left: 220px;
+    color: white;
+
+
+}
+
+.navbar {
+    padding: relative;
+    margin: 20px;
+}
+
+
+nav a {
+    position: relative;
+    left: 340px;
+    padding: 222px 15px;
+    color: darkgray;
+    text-decoration: none;
+    height: 500px;
+}
+
+.white {
+    color: white;
+
+}
+
+
+a:hover {
+    color: white;
+
+}
+
+.main {
+    margin: 29px;
+    height: 60vh;
+
+}
+
+.circle {
+    height: 300px;
+    width: 300px;
+    background-color: #303030d0;
+    border-radius: 11cm;
+    margin: 2px;
+    display: flex;
+
+
+    rgb(66, 65, 65);
+
+
+
+
+
+}
+
+
+.hafeez {
+    height: 390px;
+    width: 390px;
+    margin: -50px;
+    padding-right: 2cm;
+    position: relative;
+    right: 28px;
+    z-index: 100;
+    bottom: 160px;
+
+}
+
+.main {
+
+    width: 90vw;
+}
+
+.infocontainer {
+
+    height: 60vh;
+    width: 80vw;
+    display: flex;
+    justify-content: space-around;
+    padding: px;
+    margin: 35px;
+    padding-left: 5px;
+}
+
+.circle {
+    margin: 6px;
+    justify-content: left;
+    padding: 1px;
+    position: relative;
+    left: -220px;
+
+    z-index: 34;
+    padding: 40px;
+    bottom: 19px;
+
+}
+
+.devinfo {
+    color: white;
+
+    position: relative;
+    left: 100px;
+    bottom: -40px;
+    z-index: 45;
+
+
+}
+
+.hello {
+    font-size: 40px;
+    color: darkgray;
+}
+
+.name {
+    font-size: 48px;
+}
+
+.line {
+    background-color: orange;
+    position: relative;
+    bottom: -6px;
+    height: 5px;
+    width: 160px;
+    border-radius: 4px;
+}
+
+.about {
+    font-size: 15px;
+    color: rgb(192, 189, 189);
+    ;
+    ;
+}
+
+.service {
+    font-size: 20px;
+    position: relative;
+    left: 280px;
+    color: rgb(192, 189, 189);
+    ;
+    bottom: -14px;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 290px;
+    bottom: -26px;
+    display: inline;
+}
+
+.show {
+    color: orange;
+    font-size: 19px;
+}
+
+.fa-solid {
+    font-size: 17px;
+    position: relative;
+    left: 6px;
+    bottom: -1px;
+}
+
+.web {
+    position: relative;
+    left: 488px;
+}
+
+.in {
+    position: relative;
+    left: 468px;
+}
+
+.menu {
+    position: relative;
+    left: 443px;
+}
+
+.twitter {
+    color: orange;
+    height: 1vh;
+    position: relative;
+    left: 155px;
+}
+
+.face {
+    color: orange;
+    position: relative;
+    left: 170px;
+}
+
+.insta {
+    color: orange;
+    position: relative;
+    left: 144px;
+}
+
+.pin {
+    color: orange;
+    position: relative;
+    left: 130px;
+}
+
+.icon1 {
+    position: relative;
+    right: 175px;
+    bottom: -28px;
+}
+
+.fa-face-smile {
+    color: orange;
+    font-size: 21px;
+    position: relative;
+    left: -6px;
+}
+
+.centerbox {
+    background-color: rgb(73, 73, 73);
+    position: relative;
+    left: 220px;
+    z-index: 120;
+    width: 820px;
+    height: 66px;
+    bottom: 70px;
+
+}
+
+.divnav {
+    display: flex;
+    justify-content: center;
+}
+
+.metaimg {
+    height: 66px;
+    width: -55px;
+    position: relative;
+    left: 14px;
+
+    bottom: 14px;
+}
+
+.googleimg {
+    height: 66px;
+    width: -55px;
+    position: relative;
+    left: 14px;
+
+    bottom: 14px;
+}
+
+.linkedinimg {
+    height: 127px;
+    width: -55px;
+    position: relative;
+    right: 32px;
+
+    bottom: 45px;
+}
+
+.slackimg {
+    height: 56px;
+    width: -55px;
+    position: relative;
+    left: 14px;
+
+    bottom: 8px;
+}
+
+.imagenav {
+    display: flex;
+}
+
+.metadiv {
+    height: 38px;
+    width: 140px;
+    background-color: #303030d0;
+    position: relative;
+    left: 75px;
+    bottom: -14px;
+}
+
+.googlediv {
+    height: 38px;
+    width: 140px;
+    background-color: #303030d0;
+    position: relative;
+    left: 102px;
+    bottom: -14px;
+}
+
+.linkeddiv {
+    height: 38px;
+    width: 140px;
+    background-color: #303030d0;
+    position: relative;
+    left: 147px;
+    bottom: -14px;
+}
+
+.slackdiv {
+    height: 38px;
+    width: 140px;
+    background-color: #303030d0;
+    position: relative;
+    left: 190px;
+    bottom: -14px;
+}
+
+.half {
+    background-color: #222222;
+    height: 102vh;
+    width: 110%;
+    position: relative;
+    right: 40px;
+    bottom: 130px;
+}
+
+.downcontainer {
+    margin: 29px;
+    height: 60vh;
+}
+
+.infotext {
+    font-size: 25px;
+    width: 240px;
+    color: white;
+    position: relative;
+    left: 240px;
+    bottom: -60px;
+}
+
+.information {
+    position: relative;
+    bottom: -43px;
+}
+
+.infopra {
+    color: rgb(192, 189, 189);
+    width: 270px;
+    position: relative;
+    left: 240px;
+    bottom: -80px;
+    font-size: 16px;
+}
+
+.num1 {
+    width: 40px;
+    color:
+        orange;
+    position: relative;
+    left: 240px;
+    bottom: -100px;
+}
+
+.line1 {
+    width: 150px;
+    position: relative;
+    left: 240px;
+    bottom: -110px;
+    color: rgb(192, 189, 189);
+}
+
+.num2 {
+    width: 40px;
+    color: orange;
+    position: relative;
+    left: 410px;
+    bottom: -63px;
+}
+
+.line2 {
+    width: 150px;
+    position: relative;
+    left: 410px;
+    bottom: -75px;
+    color: rgb(192, 189, 189);
+}
+
+.line3 {
+    width: 150px;
+    color: rgb(192, 189, 189);
+    ;
+    position: relative;
+    left: 240px;
+    bottom: -105px;
+}
+
+.num3 {
+    width: 40px;
+    position: relative;
+    left: 240px;
+    bottom: -90px;
+    color: orange
+}
+
+.line4 {
+    width: 150px;
+    position: relative;
+    left: 410px;
+    bottom: -70px;
+    color: rgb(192, 189, 189);
+}
+
+.num4 {
+    width: 40px;
+    color: orange;
+    position: relative;
+    left: 410px;
+    bottom: -55px;
+}
+
+
+.uiimg {
+    height: 70px;
+    position: relative;
+    left: 650px;
+    bottom: 150px;
+}
+
+.arrow1 {
+    height: 22px;
+    position: relative;
+    left: 1025px;
+    bottom: 255px;
+}
+
+.line01 {
+    position: relative;
+    bottom: 224px;
+    width: 400px;
+    left: 200px;
+}
+
+.uitext {
+    position: relative;
+    left: 670px;
+    bottom: 190px;
+    font-size: 16px;
+    color: white;
+}
+
+.uinum {
+    color: rgb(192, 189, 189);
+    width: 100px;
+    position: relative;
+    left: 773px;
+    bottom: 202px;
+    font-size: 15px;
+}
+
+. {
+    color: orange;
+    width: 100px;
+    position: relative;
+    left: 773px;
+    bottom: 240px;
+    font-size: 15px;
+}
+
+.line02 {
+    position: relative;
+    bottom: 255px;
+    width: 400px;
+    left: 200px;
+}
+
+.frontimg {
+    height: 70px;
+    position: relative;
+    left: 650px;
+    bottom: 220px;
+    width: 103px;
+}
+
+.fronttext {
+    position: relative;
+    left: 670px;
+    bottom: 263px;
+    font-size: 16px;
+    color: white;
+}
+
+.frontnum {
+    color: rgb(192, 189, 189);
+    width: 100px;
+    position: relative;
+    left: 773px;
+    bottom: 273px;
+    font-size: 15px;
+}
+
+.arrow2 {
+    height: 22px;
+    height: 22px;
+    position: relative;
+    left: 1025px;
+    bottom: 325px
+}
+
+.line02 {
+    position: relative;
+    bottom: 292px;
+    width: 400px;
+    left: 200px;
+}
+
+.mobileimg {
+    height: 70px;
+    position: relative;
+    left: 650px;
+    bottom: 288px;
+    width: 103px;
+}
+
+.mobiletext {
+    position: relative;
+    left: 670px;
+    bottom: 330px;
+    font-size: 16px;
+    color: white;
+}
+
+.mobilenum {
+    color: rgb(192, 189, 189);
+    width: 100px;
+    position: relative;
+    left: 773px;
+    bottom: 340px;
+    font-size: 15px;
+}
+
+.arrow3 {
+    height: 22px;
+    height: 22px;
+    position: relative;
+    left: 1025px;
+    bottom: 390px
+}
+
+.line03 {
+    position: relative;
+    bottom: 365px;
+    width: 400px;
+    left: 200px;
+}
+
+.mainbox {
+    display: flex;
+    justify-content: center
+}
+
+.box1 {
+    height: 39vh;
+    width: 19vw;
+    background-color: rgb(73, 73, 73);
+    margin: 10px;
+}
+
+.box2 {
+    height: 39vh;
+    width: 19vw;
+    background-color: rgb(73, 73, 73);
+    margin: 10px;
+}
+
+.box3 {
+    height: 39vh;
+    width: 19vw;
+    background-color: rgb(73, 73, 73);
+    margin: 10px;
+}
+
+.img1 {
+    height: 45px;
+    padding: 20px;
+}
+
+.img2 {
+    height: 45px;
+    padding: 20px;
+}
+
+.img3 {
+    height: 45px;
+    padding: 20px;
+}
+
+.text01 {
+    position: relative;
+    right: 65px;
+    bottom: -15px;
+    color: white;
+}
+
+.pra01 {
+    position: relative;
+    left: 25px;
+    bottom: -10px;
+    color: rgb(192, 189, 189);
+}
+
+.text02 {
+    position: relative;
+    right: 65px;
+    bottom: -15px;
+    color: white;
+}
+
+.pra02 {
+    position: relative;
+    left: 25px;
+    bottom: -10px;
+    color: rgb(192, 189, 189);
+}
+
+.text03 {
+    position: relative;
+    right: 65px;
+    bottom: -15px;
+    color: white;
+}
+
+.pra03 {
+    position: relative;
+    left: 25px;
+    bottom: -10px;
+    color: rgb(192, 189, 189);
+    ;
+}
